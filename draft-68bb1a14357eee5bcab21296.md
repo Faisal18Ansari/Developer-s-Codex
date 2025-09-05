@@ -1,6 +1,10 @@
 ---
 title: "CRY OF FEAR: What Real Depression Looks Like."
+seoTitle: "Cry of Fear Analysis – Depression, Horror & Psychological Storytelling"
+seoDescription: "Explore Cry of Fear’s dark themes of depression, trauma, and horror in this deep dive into its story, design, and impact."
 slug: cry-of-fear-what-real-depression-looks-like
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757095723842/0a5e778c-abbb-4d05-85f4-9c287660e894.png
+tags: cryoffear, psychologicalhorror, gameanalysis, horrorgaming, deep-dive, gamereview, horrorgameanalysis, goldsourceengine, gamedesignanalysis, underratedgames, pcgaming, indiegames, game-mechanics, atmosphericdesign, gamingdiscussion
 
 ---
 
