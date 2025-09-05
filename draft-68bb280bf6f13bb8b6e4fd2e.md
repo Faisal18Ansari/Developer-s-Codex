@@ -1,6 +1,7 @@
 ---
 title: "The Developers Who Almost Killed Need for Speed "
 seoTitle: "The Rise, Fall & Comeback of Need for Speed – How EA Nearly Killed the"
+seoDescription: "Discover how developer shifts, corporate greed, and fan backlash nearly buried Need for Speed—and how it made a comeback."
 slug: the-developers-who-almost-killed-need-for-speed
 
 ---
