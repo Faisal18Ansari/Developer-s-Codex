@@ -27,20 +27,21 @@ Whether it's the psychological horror of an indie thriller or the brilliant mech
 
 ## **What You Can Expect**
 
-I'm here to share:
+On this blog, you’ll find content across **three core categories**:
 
-* **Deep dives into game mechanics** and what makes them work
-    
-* **Developer insights** from someone who's been on both sides of the screen
-    
-* **Honest opinions** on games that deserve more (or less) attention
-    
-* **Technical breakdowns** that actually make sense
-    
+### 🎮 Game Dissection Lab
 
-I love connecting with fellow developers, designers, and gaming enthusiasts who share this passion for interactive experiences.
+Where I perform **detailed reviews of games** and break down the psychology of the developers behind them. It’s not just about whether a game is fun — it’s about *why* it works.
 
- Whether you're into game jams, cutting-edge gaming tech, or just want to discuss why certain gameplay concepts work so well, let's dive in together.
+### 🕵️ Hidden Realms: Gaming's Untold Stories
+
+Every game has a backstory beyond what you play on screen. Here, I explore the **hidden facts, untold histories, and behind-the-scenes stories** of games and their development.
+
+### ⚙️ The Game Engine: How Games Really Work
+
+Curious about what goes on under the hood? In this section, I explain **how specific features and mechanics are designed and implemented**, translating complex technical concepts into digestible insights.
+
+👉 To know more about these categories, make sure to check out their dedicated pages for a deeper dive!.
 
 ## **Let's Connect**
 
