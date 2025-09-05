@@ -50,7 +50,11 @@ The final nail came with The Run (2011), where EA forced Black Box to use **the 
 
 By 2012, Black Box was done. EA's corporate strategy of yearly releases had burned out the studio that created the franchise's most beloved entries.
 
-## **The Dark Ages: Ghost Games Era (2013-2019)**
+%[https://youtu.be/vEOyMHd5S8c?si=_gMHi-HcRIP6Oj0e] 
+
+ As YouTuber DoVe\_7 perfectly explains in this breakdown
+
+## [**The Dark Ages**](youtube-link)**: Ghost Games Era (2013-2019)**
 
 Enter Ghost Games, a studio formed mostly from former **Criterion** employees relocated to Sweden. What could go wrong?
 
