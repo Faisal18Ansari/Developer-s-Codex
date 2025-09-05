@@ -6,7 +6,6 @@ datePublished: Fri Sep 05 2025 16:52:43 GMT+0000 (Coordinated Universal Time)
 cuid: cmf72pmib000102l8hxzsbh7g
 slug: hey-there-im-faisal
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757090885467/68c35aca-3271-4f3e-ae6f-e2d82c979bd6.png
-tags: unity, cpp, csharp, game-development, personal, programming-ciovqvfcb008mb253jrczo9ye, games, gaming, unity3d, game-design, personal-development, unity-engine, unity-3d-game-developers
 
 ---
 
