@@ -52,7 +52,7 @@ By 2012, Black Box was done. EA's corporate strategy of yearly releases had burn
 
 %[https://youtu.be/vEOyMHd5S8c?si=_gMHi-HcRIP6Oj0e] 
 
- As YouTuber DoVe\_7 perfectly explains in this breakdown
+> As YouTuber DoVe\_7 perfectly explains in this breakdown.
 
 ## [**The Dark Ages**](youtube-link)**: Ghost Games Era (2013-2019)**
 
@@ -80,7 +80,11 @@ Want Underground-style customization? Here's some. Miss Most Wanted's cops? Have
 
 The result was games with no clear **identity**, trying to be everything to everyone and succeeding at **nothing**.
 
-## **The Comeback: Heat and Criterion's Return**
+%[https://youtu.be/I1vlY52oCo8?si=xG1qXO2PkndfO_QR] 
+
+> For a deeper dive into Payback's gambling mechanics, check out D
+
+## [**The Comeback: Heat and Criteri**](youtube-link)**on's Return**
 
 Just when it seemed like NFS was done for, Heat (2019) arrived as Ghost Games' swan song – and surprisingly, it was actually good.
 
