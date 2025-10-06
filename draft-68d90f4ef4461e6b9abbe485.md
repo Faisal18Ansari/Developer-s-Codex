@@ -145,7 +145,7 @@ All your documentation in one searchable, offline-friendly interface.
 
 Stop drowning in 27 browser tabs trying to remember that one React hook syntax.
 
-![]( align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1759766213155/a45852aa-61c9-4859-91fd-b22ff6ded829.png align="center")
 
 ---
 
