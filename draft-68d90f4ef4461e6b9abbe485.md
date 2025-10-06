@@ -2,6 +2,7 @@
 title: "10 GitHub Repositories That'll Save Your Developer Career (Without the Burnout)"
 slug: 10-github-repositories-thatll-save-your-developer-career-without-the-burnout
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1759765129639/d10fd543-9147-42a4-868d-f083dba63b9f.png
+tags: github, opensource, developer-tools
 
 ---
 
