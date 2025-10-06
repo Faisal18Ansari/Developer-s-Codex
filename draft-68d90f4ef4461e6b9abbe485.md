@@ -129,6 +129,8 @@ Check it out [Here](https://github.com/SimplifyJobs/Summer2026-Internships)
 
 These curated job boards update daily with opportunities specifically for fresh graduates and internship seekers.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1759766274219/1150cce8-df2f-4be2-8020-c71fdbe7b45f.png align="center")
+
 ---
 
 Unlike traditional job boards with stale postings from three months ago, these repos give you real-time access to new openings.
@@ -159,7 +161,7 @@ System design clarified for mortals.
 
 Load balancing, caching, and database sharding explained in digestible chunks with real-world examples.
 
-![]( align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1759766272740/81c50806-6215-4985-b6a8-7fc0431bd72b.png align="center")
 
 ---
 
@@ -183,7 +185,7 @@ Pick one repository right now. Set a specific goal: "**Complete three FreeCodeCa
 
 Track your progress publicly—accountability works. Contribute to these repos, help others in discussions, or simply share what you've learned.
 
-![]( align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1759766228914/f837aece-d8df-4025-9704-d753b4af7c3a.png align="center")
 
 ---
 
