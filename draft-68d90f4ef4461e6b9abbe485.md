@@ -152,3 +152,43 @@ Stop drowning in 27 browser tabs trying to remember that one React hook syntax.
 MDN, Node.js, React—everything consolidated and fast. This isn't just convenient; it's a genuine productivity multiplier that saves hours weekly.
 
 **10\. System Design Primer**
+
+Check it out [Here](https://github.com/donnemartin/system-design-primer)
+
+System design clarified for mortals.
+
+Load balancing, caching, and database sharding explained in digestible chunks with real-world examples.
+
+![]( align="center")
+
+---
+
+Your apps need to scale beyond "hello world," and this repo prepares you for both production systems and senior-level interviews.
+
+## **The Uncomfortable Truth**
+
+These repositories aren't magical. Most developers bookmark resources and never open them again.
+
+The GitHub stars don't transfer skills to your brain automatically. What separates career progression from stagnation is actually committing to learn from these resources.
+
+Start with one repository this week. Not all ten—just one. If you're beginning, choose FreeCodeCamp or Project-Based Learning.
+
+Interview prep? Combine the Tech Interview Handbook with Coding Interview University.
+
+Want deep understanding? Build Your Own X will change how you think about code.
+
+## **Your Next Steps**
+
+Pick one repository right now. Set a specific goal: "**Complete three FreeCodeCamp challenges daily**" or "**Build one project from Project-Based Learning this month**."
+
+Track your progress publicly—accountability works. Contribute to these repos, help others in discussions, or simply share what you've learned.
+
+![]( align="center")
+
+---
+
+### **Which repository are you opening first?**
+
+### **Better question—which one will you actually use this week?**
+
+Drop your commitment in the comments, and let's hold each other accountable. The resources exist. The only question is whether you'll use them.
