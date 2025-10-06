@@ -18,7 +18,7 @@ No fluff, just resources that genuinely accelerate your developer journey.
 
 ## **The Learning Foundation**
 
-**1\. FreeCodeCamp**
+### **1\. FreeCodeCamp**
 
 Check it out [Here](https://github.com/freeCodeCamp/freeCodeCamp)
 
@@ -30,7 +30,7 @@ Your coding bootcamp without an expensive Price Tag. This comprehensive curricul
 
 The supportive community means you're never stuck alone debugging at 2 AM. Best for complete beginners who need structure without taking tension about the receipt.
 
-**2\. Free Programming Books**
+### **2\. Free Programming Books**
 
 Check it out [Here](https://github.com/EbookFoundation/free-programming-books)
 
@@ -46,7 +46,7 @@ Organized by topic and available in multiple languages, this repo proves that kn
 
 Perfect for anyone choosing between rent and that programming book.
 
-**3\. Project-Based Learning**
+### **3\. Project-Based Learning**
 
 Check it out [Here](https://github.com/practical-tutorials/project-based-learning)
 
@@ -64,7 +64,7 @@ The same applies to coding. These projects become resume gold while cementing yo
 
 ## **Deep Dive Mastery**
 
-**4\. Build Your Own X**
+### **4\. Build Your Own X**
 
 Check it out [Here](https://github.com/codecrafters-io/build-your-own-x)
 
@@ -80,7 +80,7 @@ Understanding systems at this level transforms you from someone who uses tools t
 
 Maintained by Code Crafters, this is your path from code monkey to code architect.
 
-**5\. JavaScript Algorithms and Data Structures**
+### **5\. JavaScript Algorithms and Data Structures**
 
 Check it out [Here](http://github.com/trekhleb/javascript-algorithms)
 
@@ -98,7 +98,7 @@ Essential for technical interview prep and genuine problem-solving improvement.
 
 ## **Career Acceleration**
 
-**6\. Tech Interview Handbook**
+### **6\. Tech Interview Handbook**
 
 Check it out [Here](https://github.com/yangshun/tech-interview-handbook)
 
@@ -114,7 +114,7 @@ Because here's the truth: software engineering interviews are often harder than 
 
 This handbook breaks down every component with practical strategies that work.
 
-**7\. Coding Interview University**
+### **7\. Coding Interview University**
 
 Check it out [Here](https://github.com/jwasham/coding-interview-university)
 
@@ -128,7 +128,7 @@ This comprehensive roadmap covers data structures, algorithms, and system design
 
 Think of it as your GPS through interview prep chaos—structured, systematic, and surprisingly manageable when broken into daily chunks.
 
-**8\. Simplified Job Repositories**
+### **8\. Simplified Job Repositories**
 
 Check it out [Here](https://github.com/SimplifyJobs/Summer2026-Internships)
 
@@ -144,7 +144,7 @@ Early application dramatically increases your chances—these repos act as your 
 
 ## **Productivity & Polish**
 
-**9\. DevDocs**
+### **9\. DevDocs**
 
 Check it out [Here](https://github.com/freeCodeCamp/devdocs)
 
@@ -158,7 +158,7 @@ Stop drowning in 27 browser tabs trying to remember that one React hook syntax.
 
 MDN, Node.js, React—everything consolidated and fast. This isn't just convenient; it's a genuine productivity multiplier that saves hours weekly.
 
-**10\. System Design Primer**
+### **10\. System Design Primer**
 
 Check it out [Here](https://github.com/donnemartin/system-design-primer)
 
