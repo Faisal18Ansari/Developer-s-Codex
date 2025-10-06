@@ -1,8 +1,10 @@
 ---
 title: "10 GitHub Repositories That'll Save Your Developer Career (Without the Burnout)"
+seoTitle: "10 GitHub Repositories That’ll Save Your Developer Career No Burnout "
+seoDescription: "Boost your dev skills with 10 must-know GitHub repos—from coding mastery to interview prep and real career growth."
 slug: 10-github-repositories-thatll-save-your-developer-career-without-the-burnout
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1759765129639/d10fd543-9147-42a4-868d-f083dba63b9f.png
-tags: github, opensource, developer-tools
+tags: github, opensource, developer-tools, career-growth, programming-tips, programming-blogs, web-development, software-engineering, coding-interview, system-design, learntocode, tech-career, developer-productivity, projectbasedlearning, self-taught
 
 ---
 
