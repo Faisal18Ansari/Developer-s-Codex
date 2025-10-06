@@ -139,4 +139,16 @@ Early application dramatically increases your chances—these repos act as your 
 
 **9\. DevDocs**
 
-Check it out [Here](https://github.com/SimplifyJobs/Summer2026-Internships)
+Check it out [Here](https://github.com/freeCodeCamp/devdocs)
+
+All your documentation in one searchable, offline-friendly interface.
+
+Stop drowning in 27 browser tabs trying to remember that one React hook syntax.
+
+![]( align="center")
+
+---
+
+MDN, Node.js, React—everything consolidated and fast. This isn't just convenient; it's a genuine productivity multiplier that saves hours weekly.
+
+**10\. System Design Primer**
