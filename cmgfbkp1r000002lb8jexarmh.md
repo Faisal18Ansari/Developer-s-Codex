@@ -1,6 +1,6 @@
 ---
 title: "10 GitHub Repositories That'll Save Your Developer Career (Without the Burnout)"
-seoTitle: "10 GitHub Repositories That’ll Save Your Developer Career No Burnout "
+seoTitle: "10 GitHub Repositories That’ll Save Your Developer Career No Burnout"
 seoDescription: "Boost your dev skills with 10 must-know GitHub repos—from coding mastery to interview prep and real career growth."
 datePublished: Mon Oct 06 2025 16:02:41 GMT+0000 (Coordinated Universal Time)
 cuid: cmgfbkp1r000002lb8jexarmh
