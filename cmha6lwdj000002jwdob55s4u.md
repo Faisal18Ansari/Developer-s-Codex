@@ -4,7 +4,7 @@ seoTitle: "Ghost of Tsushima: Honor and Storms Unite"
 seoDescription: "Explore Ghost of Tsushima’s story of honor, sacrifice, and choice—how Jin Sakai’s journey redefined what it means to be a samurai."
 datePublished: Tue Oct 28 2025 06:24:31 GMT+0000 (Coordinated Universal Time)
 cuid: cmha6lwdj000002jwdob55s4u
-slug: ghost-of-tsushima-analysis
+slug: ghost-of-tsushima
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761632112159/14b21b70-397d-489c-830e-9e71fa44cb2b.png
 tags: game-design, gaming-experience, ghostoftsushimahile, gamereview, gameplay-mechanics, ps5games, characterdevelopment, narrative-design, gameanalysis, suckerpunchproductions, moralchoices, samuraicode, japanesemythology
 
