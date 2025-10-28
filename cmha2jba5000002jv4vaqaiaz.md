@@ -4,7 +4,7 @@ seoTitle: "Ghost of Tsushima Analysis – Honor, Sacrifice, and the Making of th
 seoDescription: "Explore Ghost of Tsushima’s story of honor, sacrifice, and choice—how Jin Sakai’s journey redefined what it means to be a samurai."
 datePublished: Tue Oct 28 2025 04:30:31 GMT+0000 (Coordinated Universal Time)
 cuid: cmha2jba5000002jv4vaqaiaz
-slug: ghost-of-tsushima-when-honor-meets-the-storm
+slug: ghost-of-tsushima-when-honor-meets-the-storm--deleted
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761581025339/29877d2a-ee83-4669-9198-d5363e2f3b65.png
 tags: game-design, gaming-experience, emotionaljourney, gamereview, gameplay-mechanics, ps5games, japanese-history, characterdevelopment, narrative-design, gameanalysis, ghostoftsushima, suckerpunchproductions, moralchoices, samuraicode, japanesemythology
 
